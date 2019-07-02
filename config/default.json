@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://kasia:Database1@@cluster0-cwtqp.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken"
+}
