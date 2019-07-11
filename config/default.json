@@ -1,4 +1,6 @@
 {
     "mongoURI": "mongodb+srv://kasia:Database1@@cluster0-cwtqp.mongodb.net/test?retryWrites=true&w=majority",
-    "jwtSecret": "mysecrettoken"
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "053ba288c2a38dceff73",
+    "githubSecret": "14178574fff3130ef11522ff48ca4828c58b5738"
 }
